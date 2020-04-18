@@ -1,3 +1,6 @@
 # SkillSet-MarketPlace
 
-Python, Django, Heroku, Braintree
+Technologies Used : Python, Django, Heroku, Braintree
+
+
+Freelance model MVP of Fiverr.com (sixerr)
